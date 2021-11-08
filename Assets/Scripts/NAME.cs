@@ -6,7 +6,7 @@ public class NAME : MonoBehaviour
 {
     /**
      ここにみんなの名前書いてみてね
-     ツヅキだよーん。
+     ツヅキだよーん
      
      
      
