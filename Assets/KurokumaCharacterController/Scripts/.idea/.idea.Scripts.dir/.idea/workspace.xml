@@ -12,6 +12,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/KurokumaCharacterController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Scripts/NAME.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="20cqZWkJR3ElYkdRXAnElU14YjQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -34,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636354284620</updated>
-      <workItem from="1636354286220" duration="609000" />
+      <workItem from="1636354286220" duration="1208000" />
     </task>
     <servers />
   </component>
