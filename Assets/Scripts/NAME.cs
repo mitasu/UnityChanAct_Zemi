@@ -8,7 +8,7 @@ public class NAME : MonoBehaviour
      ここにみんなの名前書いてみてね
      ツヅキ
      
-     
+     副島咲
      
      
      */
