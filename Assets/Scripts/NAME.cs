@@ -12,7 +12,7 @@ public class NAME : MonoBehaviour
      ツヅキだよーん
 
      
-     副島咲2
+     副島咲
      
      
      */
